@@ -1,0 +1,2 @@
+CLIENTE: 1 - brandon - brandonrj - 3939 - 19
+PROCESADOR: 1 - AMD - Ryzen 5 - 3.8
